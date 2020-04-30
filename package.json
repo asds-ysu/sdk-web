@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/asds-ysu/sdk-web#readme",
   "dependencies": {
-    "jquery": "2.1.4",
+    "jquery": "3.5.0",
     "bootstrap": "3.3.5",
     "handlebars": "3.0.3"
   }
